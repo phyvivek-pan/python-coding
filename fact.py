@@ -4,8 +4,8 @@ def fact(n):
 		f=f*i
 	return f
 
-x=5
-result=fact(x)
-print(result)
+n=5
+result=fact(n)
+print("the factorial of " , n , "is" ,result)
 
 
